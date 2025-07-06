@@ -62,7 +62,7 @@ The objective of this analysis is to utilize non-parametric and semi-parametric 
 
 From above graph, we can say that
 - AS expected, for telcom, churn is relatively low. The company was able to retain more than 60% of its customers even after 72 months.
-- There is a constant decrease in survival probability probability between 3-60 months.
+- There is a constant decrease in survival probability probability between 3-7 months.
 - After 60 months or 5 years, survival probability decrease with a higher rate. 
 
 **Log-Rank Test:** 
